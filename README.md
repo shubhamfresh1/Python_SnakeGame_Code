@@ -1,0 +1,1 @@
+Welcome to the Python Snake Game! This is a classic snake game implemented in Python using the Tkinter library. The objective of the game is simple: control the snake to eat the food and grow longer, but avoid running into the walls or the snake's own body.
